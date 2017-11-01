@@ -1,0 +1,27 @@
+##Setting up lab servers for ansible courses
+##LP#389us, ro, pa, na
+#10. create lab server
+#20. login is user (default) 
+#30. modify user password (orig pw =123456)
+#40. modify root passwd
+##   su -
+#50. create user paintlo and change pw
+##   sudo useradd paintlo
+##   sudo passwd paintlo
+##   sudo usermod -aG wheel paintlo
+##   sudo visudo
+####    add paintlo
+####    uncomment %wheel to run all commands
+#60. create ~/.ssh
+#70. create key
+##   ssh-keygen
+#80. logout
+#90. copy lwp key to ansible server so we can log in without password
+##   cd ~/.ssh
+##   ssh-copy-id paintlo#paintlo4.mylabserver.com
+
+##repeat steps 10-80 for each lab server
+
+
+##now use ansible server to set up nesaadm user on all servers
+

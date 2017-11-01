@@ -1,0 +1,8 @@
+---
+- hosts: s1-3 
+  tasks:
+    - ping:
+      register: result
+
+    - debug: var=hostvars[item].result
+      with_items: "{{ groups['s1-3'] }}"

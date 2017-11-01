@@ -1,0 +1,11 @@
+--- 
+- hosts: s3
+  #become: true
+  tasks:
+  - name: show user in file shell
+    #command: cat /var/log/messages
+    shell: cat /etc/passwd 
+    register: ct
+
+  - local_action: command echo item
+   with_items: ct.stdout_lines

@@ -1,0 +1,30 @@
+#!/bin/bash
+
+echo "Setting up Ansible server"
+sudo yum -y install epel-release
+sudo yum update repolist
+sudo yum -y install git python python-devel python-pip ansible
+sudo yum update
+
+exit
+#switch to user atest
+su - atest
+ssh-keygen
+
+ssh-copy-id 
+
+
+sudo yum install epel-release
+sudo yum update repolist
+sudo yum update
+
+
+cat /etc/selinux/config
+change SELINUX=enforcing
+to SELINUX=disabled
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+ansible -i myhosts s3 -a "ls -l /var/log"
+
+ansible -b -i myhosts dev -m file -a "path={{log_folders}} state=directory"
+
+ansible -i myhosts s3 -a "ls {{optlog_folder}}"
+

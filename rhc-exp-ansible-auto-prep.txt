@@ -1,0 +1,67 @@
+##Red Hat Certificate of Expertise in Ansible Automation Prep Course
+
+
+Inventories
+- static or local /etc/ansible/hosts
+- use -i option for specific file
+- can by dynamic i.e. provided via a program
+
+Modules
+- tools
+- directly or thru playbooks
+
+Variables
+- customize behavior for systems
+- deal with differences between systems
+- a-z0-9 _ always start with a letter
+- can be defined in inventory or playbok
+- ref using jinja2
+
+Facts
+- getting data from systems
+- can use facts in playbook
+
+Playbooks and plays
+- instruction manuals
+- play is a task
+- are in yaml format
+
+Config files
+- is read when playbook is run
+- order is
+  - ANSIBLE_CONFIG
+  - ansible.cfg (current directory)
+  - ansible.cfg home directory 
+  - /etc/ansible/ansible.cfg
+
+
+Templates
+- ansible module called template
+- can use variables
+
+Handlers
+- a task can trigger a handler
+- used to handle error conditions
+- called at the end of each play 
+- multiple tasks trigger anothe action
+
+Roles
+- important
+- splits of a playbook into multiple files
+  - file for tasks
+  - file for variables
+  - file for handlers
+- a method for packaging up tasks, handlers, etc. you need into reusable components to include in a playbook
+-ansible-galaxy is a repository for roles people have created for tasks
+
+
+Ansible Vault
+- secure store
+- can keep sensitive data 
+- passwords, encryped files
+- command tool ansible-vault
+- command line flag for playbooks
+
+
+
+

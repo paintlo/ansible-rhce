@@ -1,0 +1,8 @@
+- hosts: s3 
+  gather_facts: no
+  tasks:
+    - shell: ps -eo pcpu,user,args | sort -r -k1 | head -n5
+      register: ps
+
+    - local_action: command echo item
+      with_items: ps.stdout_lines

@@ -1,0 +1,13 @@
+--- 
+  tasks:
+  - name: create user paintlo
+    user: 
+      name: paintlo
+      password: "{{ 'password' | password_hash('sha512') }}"
+      shell: /bin/zsh
+      update_password: on_create
+    register: madhead
+
+- name: Force paintlo to change password
+  shell: chage -d 0 paintlo 
+  when: paintlo.changed

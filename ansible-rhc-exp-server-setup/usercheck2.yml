@@ -1,0 +1,12 @@
+--- 
+- hosts: s3
+  gather_facts: no
+  #become: true
+  tasks:
+  - name: show user in file command 
+    command: cat /etc/passwd | grep paintlo
+    #shell: cat /etc/passwd | grep nesaadm
+  - name: show user in file shell
+    #command: cat /var/log/messages
+    shell: cat /etc/passwd  | grep paintlo
+    #        #shell: cat /etc/passwd | grep nesaadm  

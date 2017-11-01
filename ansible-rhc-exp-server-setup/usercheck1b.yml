@@ -1,0 +1,9 @@
+--- 
+- hosts: s3
+  #become: true
+  tasks:
+  - name: show user in file shell
+    shell: cat /etc/passwd | grep paint 
+    register: shell_resultxx
+  - debug:
+    var: shell_resultxx.stdout_lines

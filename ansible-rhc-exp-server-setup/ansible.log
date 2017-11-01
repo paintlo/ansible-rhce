@@ -1,0 +1,685 @@
+2017-10-31 22:15:04,687 p=2848 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:15:04,694 p=2848 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:15:05,801 p=2848 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:15:05,806 p=2848 u=paintlo |  TASK [create user nesaadm] ******************************************************************************************************
+2017-10-31 22:15:07,715 p=2848 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:15:07,732 p=2848 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:15:07,732 p=2848 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:19:02,056 p=2890 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:19:02,064 p=2890 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:19:03,225 p=2890 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:19:03,230 p=2890 u=paintlo |  TASK [create user nesaadm] ******************************************************************************************************
+2017-10-31 22:19:05,079 p=2890 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:19:05,094 p=2890 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:19:05,095 p=2890 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:20:49,065 p=2931 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:20:49,072 p=2931 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:20:50,143 p=2931 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:20:50,148 p=2931 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:20:52,004 p=2931 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:20:52,020 p=2931 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:20:52,020 p=2931 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:22:34,459 p=2968 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:22:34,467 p=2968 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:22:35,536 p=2968 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:22:35,540 p=2968 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:22:37,395 p=2968 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:22:37,411 p=2968 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:22:37,411 p=2968 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:23:58,150 p=3024 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:23:58,157 p=3024 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:23:59,214 p=3024 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:23:59,219 p=3024 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:23:59,570 p=3024 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:23:59,571 p=3024 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:23:59,572 p=3024 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:24:31,415 p=3056 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:24:31,423 p=3056 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:24:32,096 p=3056 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:24:32,101 p=3056 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:24:32,452 p=3056 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:24:32,453 p=3056 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:24:32,454 p=3056 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:25:14,573 p=3089 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:25:14,581 p=3089 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:25:15,269 p=3089 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:25:15,274 p=3089 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:25:15,643 p=3089 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:25:15,644 p=3089 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:25:15,644 p=3089 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:25:31,237 p=3118 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:25:31,244 p=3118 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:25:31,892 p=3118 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:25:31,896 p=3118 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:25:32,247 p=3118 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:25:32,249 p=3118 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:25:32,249 p=3118 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:30:27,714 p=3159 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:30:27,722 p=3159 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:30:28,902 p=3159 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:30:28,907 p=3159 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:30:29,248 p=3159 u=paintlo |  fatal: [paintlo3.mylabserver.com]: FAILED! => {"changed": true, "cmd": ["cat", "/etc/passwd", "|", "grep", "us"], "delta": "0:00:00.002493", "end": "2017-10-31 22:30:29.238633", "failed": true, "msg": "non-zero return code", "rc": 1, "start": "2017-10-31 22:30:29.236140", "stderr": "cat: |: No such file or directory\ncat: grep: No such file or directory\ncat: us: No such file or directory", "stderr_lines": ["cat: |: No such file or directory", "cat: grep: No such file or directory", "cat: us: No such file or directory"], "stdout": "root:x:0:0:root:/root:/bin/bash\nbin:x:1:1:bin:/bin:/sbin/nologin\ndaemon:x:2:2:daemon:/sbin:/sbin/nologin\nadm:x:3:4:adm:/var/adm:/sbin/nologin\nlp:x:4:7:lp:/var/spool/lpd:/sbin/nologin\nsync:x:5:0:sync:/sbin:/bin/sync\nshutdown:x:6:0:shutdown:/sbin:/sbin/shutdown\nhalt:x:7:0:halt:/sbin:/sbin/halt\nmail:x:8:12:mail:/var/spool/mail:/sbin/nologin\noperator:x:11:0:operator:/root:/sbin/nologin\ngames:x:12:100:games:/usr/games:/sbin/nologin\nftp:x:14:50:FTP User:/var/ftp:/sbin/nologin\nnobody:x:99:99:Nobody:/:/sbin/nologin\ndbus:x:81:81:System message bus:/:/sbin/nologin\npolkitd:x:999:998:User for polkitd:/:/sbin/nologin\navahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin\navahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin\nrpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin\nrpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin\nnfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin\npostfix:x:89:89::/var/spool/postfix:/sbin/nologin\nchrony:x:998:996::/var/lib/chrony:/sbin/nologin\nsshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin\ncentos:x:1000:1000:Cloud User:/home/centos:/bin/bash\nuser:x:1001:1001::/home/user:/bin/bash\nusbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin\ncolord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin\nrtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin\npulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin\ngdm:x:42:42::/var/lib/gdm:/sbin/nologin\ntss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin\nsystemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin\nsystemd-network:x:995:991:systemd Network Management:/:/sbin/nologin\ngeoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin\natest:x:1002:1002::/home/atest:/bin/bash\napache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin\npaintlo:x:1003:1003::/home/paintlo:/bin/bash\nnesaadm:x:1004:1004::/home/nesaadm:/bin/bash", "stdout_lines": ["root:x:0:0:root:/root:/bin/bash", "bin:x:1:1:bin:/bin:/sbin/nologin", "daemon:x:2:2:daemon:/sbin:/sbin/nologin", "adm:x:3:4:adm:/var/adm:/sbin/nologin", "lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin", "sync:x:5:0:sync:/sbin:/bin/sync", "shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown", "halt:x:7:0:halt:/sbin:/sbin/halt", "mail:x:8:12:mail:/var/spool/mail:/sbin/nologin", "operator:x:11:0:operator:/root:/sbin/nologin", "games:x:12:100:games:/usr/games:/sbin/nologin", "ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin", "nobody:x:99:99:Nobody:/:/sbin/nologin", "dbus:x:81:81:System message bus:/:/sbin/nologin", "polkitd:x:999:998:User for polkitd:/:/sbin/nologin", "avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin", "avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin", "rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin", "rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin", "nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin", "postfix:x:89:89::/var/spool/postfix:/sbin/nologin", "chrony:x:998:996::/var/lib/chrony:/sbin/nologin", "sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin", "centos:x:1000:1000:Cloud User:/home/centos:/bin/bash", "user:x:1001:1001::/home/user:/bin/bash", "usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin", "colord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin", "rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin", "pulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin", "gdm:x:42:42::/var/lib/gdm:/sbin/nologin", "tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin", "systemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin", "systemd-network:x:995:991:systemd Network Management:/:/sbin/nologin", "geoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin", "atest:x:1002:1002::/home/atest:/bin/bash", "apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin", "paintlo:x:1003:1003::/home/paintlo:/bin/bash", "nesaadm:x:1004:1004::/home/nesaadm:/bin/bash"]}
+2017-10-31 22:30:29,249 p=3159 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:30:29,249 p=3159 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:30:29,249 p=3159 u=paintlo |  paintlo3.mylabserver.com   : ok=1    changed=0    unreachable=0    failed=1   
+2017-10-31 22:31:27,355 p=3191 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:31:27,362 p=3191 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:31:28,006 p=3191 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:31:28,011 p=3191 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:31:28,372 p=3191 u=paintlo |  fatal: [paintlo3.mylabserver.com]: FAILED! => {"changed": true, "cmd": ["cat", "/var/log/messages"], "delta": "0:00:00.002716", "end": "2017-10-31 22:31:28.363546", "failed": true, "msg": "non-zero return code", "rc": 1, "start": "2017-10-31 22:31:28.360830", "stderr": "cat: /var/log/messages: Permission denied", "stderr_lines": ["cat: /var/log/messages: Permission denied"], "stdout": "", "stdout_lines": []}
+2017-10-31 22:31:28,373 p=3191 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:31:28,373 p=3191 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:31:28,374 p=3191 u=paintlo |  paintlo3.mylabserver.com   : ok=1    changed=0    unreachable=0    failed=1   
+2017-10-31 22:32:06,282 p=3220 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:32:06,289 p=3220 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:32:06,995 p=3220 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:32:07,000 p=3220 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:32:08,870 p=3220 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:32:08,887 p=3220 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:32:08,887 p=3220 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:37:28,131 p=3264 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:37:28,139 p=3264 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:37:29,231 p=3264 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:37:29,236 p=3264 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:37:31,086 p=3264 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:37:31,102 p=3264 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:37:31,102 p=3264 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:37:49,840 p=3294 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-10-31 22:37:49,848 p=3294 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:37:50,506 p=3294 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-10-31 22:37:50,511 p=3294 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:37:52,363 p=3294 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-10-31 22:37:52,379 p=3294 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:37:52,379 p=3294 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-10-31 22:38:46,538 p=3323 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-10-31 22:38:46,545 p=3323 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:38:47,453 p=3323 u=paintlo |  fatal: [paintlo2.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo2.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-10-31 22:38:47,454 p=3323 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:38:47,454 p=3323 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:38:47,454 p=3323 u=paintlo |  paintlo2.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-10-31 22:39:40,510 p=3348 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-10-31 22:39:40,517 p=3348 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:39:40,951 p=3348 u=paintlo |  fatal: [paintlo2.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo2.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-10-31 22:39:40,952 p=3348 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:39:40,952 p=3348 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:39:40,952 p=3348 u=paintlo |  paintlo2.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-10-31 22:39:49,897 p=3366 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-10-31 22:39:49,904 p=3366 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:39:50,347 p=3366 u=paintlo |  fatal: [paintlo2.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo2.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-10-31 22:39:50,348 p=3366 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:39:50,348 p=3366 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:39:50,349 p=3366 u=paintlo |  paintlo2.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-10-31 22:40:01,004 p=3385 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-10-31 22:40:01,011 p=3385 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:40:01,472 p=3385 u=paintlo |  fatal: [paintlo2.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo2.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-10-31 22:40:01,473 p=3385 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:40:01,474 p=3385 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:40:01,474 p=3385 u=paintlo |  paintlo2.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-10-31 22:40:29,564 p=3406 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-10-31 22:40:29,571 p=3406 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:40:30,010 p=3406 u=paintlo |  fatal: [paintlo2.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo2.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-10-31 22:40:30,011 p=3406 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-10-31 22:40:30,011 p=3406 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:40:30,012 p=3406 u=paintlo |  paintlo2.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-10-31 22:40:50,483 p=3425 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-10-31 22:40:50,490 p=3425 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-10-31 22:40:51,168 p=3425 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-10-31 22:40:51,173 p=3425 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-10-31 22:40:51,514 p=3425 u=paintlo |  changed: [paintlo2.mylabserver.com]
+2017-10-31 22:40:51,515 p=3425 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-10-31 22:40:51,515 p=3425 u=paintlo |  paintlo2.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:06:16,367 p=1236 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-11-01 09:06:16,422 p=1236 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:06:21,618 p=1236 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 09:06:21,640 p=1236 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-11-01 09:06:23,313 p=1236 u=paintlo |  changed: [paintlo2.mylabserver.com]
+2017-11-01 09:06:23,314 p=1236 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:06:23,314 p=1236 u=paintlo |  paintlo2.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:06:38,311 p=1265 u=paintlo |  PLAY [s2] ***********************************************************************************************************************
+2017-11-01 09:06:38,351 p=1265 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:06:41,734 p=1265 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 09:06:41,772 p=1265 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-11-01 09:06:43,489 p=1265 u=paintlo |  changed: [paintlo2.mylabserver.com]
+2017-11-01 09:06:43,491 p=1265 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:06:43,491 p=1265 u=paintlo |  paintlo2.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:07:07,329 p=1295 u=paintlo |  PLAY [s1-3] *********************************************************************************************************************
+2017-11-01 09:07:07,370 p=1295 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:07:10,901 p=1295 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:07:11,460 p=1295 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 09:07:13,418 p=1295 u=paintlo |  ok: [paintlo1.mylabserver.com]
+2017-11-01 09:07:13,439 p=1295 u=paintlo |  TASK [show user in file] ********************************************************************************************************
+2017-11-01 09:07:15,408 p=1295 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:07:16,080 p=1295 u=paintlo |  changed: [paintlo2.mylabserver.com]
+2017-11-01 09:07:16,156 p=1295 u=paintlo |  changed: [paintlo1.mylabserver.com]
+2017-11-01 09:07:16,175 p=1295 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:07:16,175 p=1295 u=paintlo |  paintlo1.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:07:16,175 p=1295 u=paintlo |  paintlo2.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:07:16,175 p=1295 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:09:25,378 p=1364 u=paintlo |  PLAY [s1-3] *********************************************************************************************************************
+2017-11-01 09:09:25,419 p=1364 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:09:28,842 p=1364 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:09:31,082 p=1364 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 09:09:31,370 p=1364 u=paintlo |  ok: [paintlo1.mylabserver.com]
+2017-11-01 09:09:31,394 p=1364 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:09:33,311 p=1364 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:09:33,936 p=1364 u=paintlo |  changed: [paintlo2.mylabserver.com]
+2017-11-01 09:09:34,085 p=1364 u=paintlo |  changed: [paintlo1.mylabserver.com]
+2017-11-01 09:09:34,107 p=1364 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:09:35,626 p=1364 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:09:36,164 p=1364 u=paintlo |  changed: [paintlo1.mylabserver.com]
+2017-11-01 09:09:36,192 p=1364 u=paintlo |  changed: [paintlo2.mylabserver.com]
+2017-11-01 09:09:36,194 p=1364 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:09:36,194 p=1364 u=paintlo |  paintlo1.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:09:36,194 p=1364 u=paintlo |  paintlo2.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:09:36,194 p=1364 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:11:29,432 p=1461 u=paintlo |  PLAY [s1-3] *********************************************************************************************************************
+2017-11-01 09:11:29,477 p=1461 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:11:32,650 p=1461 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:11:33,536 p=1461 u=paintlo |  fatal: [paintlo2.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo2.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-11-01 09:11:33,958 p=1461 u=paintlo |  fatal: [paintlo1.mylabserver.com]: FAILED! => {"changed": false, "failed": true, "module_stderr": "Shared connection to paintlo1.mylabserver.com closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE", "rc": 1}
+2017-11-01 09:11:33,984 p=1461 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:11:35,126 p=1461 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:11:35,147 p=1461 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:11:35,756 p=1461 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:11:35,758 p=1461 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck.retry
+
+2017-11-01 09:11:35,758 p=1461 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:11:35,758 p=1461 u=paintlo |  paintlo1.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-11-01 09:11:35,758 p=1461 u=paintlo |  paintlo2.mylabserver.com   : ok=0    changed=0    unreachable=0    failed=1   
+2017-11-01 09:11:35,759 p=1461 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:16:29,357 p=1534 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:16:29,398 p=1534 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:16:32,380 p=1534 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:16:32,402 p=1534 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:16:33,570 p=1534 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:16:33,608 p=1534 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:16:34,515 p=1534 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:16:34,517 p=1534 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:16:34,517 p=1534 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:20:22,564 p=1583 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:20:22,604 p=1583 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:20:25,359 p=1583 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:20:25,399 p=1583 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:20:26,519 p=1583 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:20:26,541 p=1583 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:20:27,119 p=1583 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:20:27,120 p=1583 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:20:27,137 p=1583 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:21:06,586 p=1623 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:21:06,627 p=1623 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:21:09,010 p=1623 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:21:09,032 p=1623 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:21:10,143 p=1623 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:21:10,181 p=1623 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:21:10,725 p=1623 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:21:10,726 p=1623 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:21:10,726 p=1623 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=2    unreachable=0    failed=0   
+2017-11-01 09:27:14,376 p=1675 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:27:14,417 p=1675 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:27:17,183 p=1675 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:27:17,204 p=1675 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:27:18,348 p=1675 u=paintlo |  fatal: [paintlo3.mylabserver.com]: FAILED! => {"changed": true, "cmd": ["cat", "/etc/passwd", "|", "grep", "paintlo"], "delta": "0:00:00.002802", "end": "2017-11-01 09:27:18.330087", "failed": true, "msg": "non-zero return code", "rc": 1, "start": "2017-11-01 09:27:18.327285", "stderr": "cat: |: No such file or directory\ncat: grep: No such file or directory\ncat: paintlo: No such file or directory", "stderr_lines": ["cat: |: No such file or directory", "cat: grep: No such file or directory", "cat: paintlo: No such file or directory"], "stdout": "root:x:0:0:root:/root:/bin/bash\nbin:x:1:1:bin:/bin:/sbin/nologin\ndaemon:x:2:2:daemon:/sbin:/sbin/nologin\nadm:x:3:4:adm:/var/adm:/sbin/nologin\nlp:x:4:7:lp:/var/spool/lpd:/sbin/nologin\nsync:x:5:0:sync:/sbin:/bin/sync\nshutdown:x:6:0:shutdown:/sbin:/sbin/shutdown\nhalt:x:7:0:halt:/sbin:/sbin/halt\nmail:x:8:12:mail:/var/spool/mail:/sbin/nologin\noperator:x:11:0:operator:/root:/sbin/nologin\ngames:x:12:100:games:/usr/games:/sbin/nologin\nftp:x:14:50:FTP User:/var/ftp:/sbin/nologin\nnobody:x:99:99:Nobody:/:/sbin/nologin\ndbus:x:81:81:System message bus:/:/sbin/nologin\npolkitd:x:999:998:User for polkitd:/:/sbin/nologin\navahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin\navahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin\nrpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin\nrpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin\nnfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin\npostfix:x:89:89::/var/spool/postfix:/sbin/nologin\nchrony:x:998:996::/var/lib/chrony:/sbin/nologin\nsshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin\ncentos:x:1000:1000:Cloud User:/home/centos:/bin/bash\nuser:x:1001:1001::/home/user:/bin/bash\nusbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin\ncolord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin\nrtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin\npulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin\ngdm:x:42:42::/var/lib/gdm:/sbin/nologin\ntss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin\nsystemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin\nsystemd-network:x:995:991:systemd Network Management:/:/sbin/nologin\ngeoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin\natest:x:1002:1002::/home/atest:/bin/bash\napache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin\npaintlo:x:1003:1003::/home/paintlo:/bin/bash\nnesaadm:x:1004:1004::/home/nesaadm:/bin/bash", "stdout_lines": ["root:x:0:0:root:/root:/bin/bash", "bin:x:1:1:bin:/bin:/sbin/nologin", "daemon:x:2:2:daemon:/sbin:/sbin/nologin", "adm:x:3:4:adm:/var/adm:/sbin/nologin", "lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin", "sync:x:5:0:sync:/sbin:/bin/sync", "shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown", "halt:x:7:0:halt:/sbin:/sbin/halt", "mail:x:8:12:mail:/var/spool/mail:/sbin/nologin", "operator:x:11:0:operator:/root:/sbin/nologin", "games:x:12:100:games:/usr/games:/sbin/nologin", "ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin", "nobody:x:99:99:Nobody:/:/sbin/nologin", "dbus:x:81:81:System message bus:/:/sbin/nologin", "polkitd:x:999:998:User for polkitd:/:/sbin/nologin", "avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin", "avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin", "rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin", "rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin", "nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin", "postfix:x:89:89::/var/spool/postfix:/sbin/nologin", "chrony:x:998:996::/var/lib/chrony:/sbin/nologin", "sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin", "centos:x:1000:1000:Cloud User:/home/centos:/bin/bash", "user:x:1001:1001::/home/user:/bin/bash", "usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin", "colord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin", "rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin", "pulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin", "gdm:x:42:42::/var/lib/gdm:/sbin/nologin", "tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin", "systemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin", "systemd-network:x:995:991:systemd Network Management:/:/sbin/nologin", "geoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin", "atest:x:1002:1002::/home/atest:/bin/bash", "apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin", "paintlo:x:1003:1003::/home/paintlo:/bin/bash", "nesaadm:x:1004:1004::/home/nesaadm:/bin/bash"]}
+2017-11-01 09:27:18,349 p=1675 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck1.retry
+
+2017-11-01 09:27:18,349 p=1675 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:27:18,349 p=1675 u=paintlo |  paintlo3.mylabserver.com   : ok=1    changed=0    unreachable=0    failed=1   
+2017-11-01 09:29:59,549 p=1711 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:29:59,589 p=1711 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:30:02,585 p=1711 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:30:02,625 p=1711 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:30:03,726 p=1711 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:30:03,744 p=1711 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:30:03,744 p=1711 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:31:04,406 p=1746 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:31:04,447 p=1746 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:31:07,144 p=1746 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:31:07,182 p=1746 u=paintlo |  TASK [show user in file shell] **************************************************************************************************
+2017-11-01 09:31:08,299 p=1746 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:31:08,317 p=1746 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:31:08,317 p=1746 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 09:31:22,647 p=1800 u=paintlo |  PLAY [s3] ***********************************************************************************************************************
+2017-11-01 09:31:22,687 p=1800 u=paintlo |  TASK [Gathering Facts] **********************************************************************************************************
+2017-11-01 09:31:24,919 p=1800 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:31:24,941 p=1800 u=paintlo |  TASK [show user in file command] ************************************************************************************************
+2017-11-01 09:31:26,075 p=1800 u=paintlo |  fatal: [paintlo3.mylabserver.com]: FAILED! => {"changed": true, "cmd": ["cat", "/etc/passwd", "|", "grep", "paintlo"], "delta": "0:00:00.002746", "end": "2017-11-01 09:31:26.032623", "failed": true, "msg": "non-zero return code", "rc": 1, "start": "2017-11-01 09:31:26.029877", "stderr": "cat: |: No such file or directory\ncat: grep: No such file or directory\ncat: paintlo: No such file or directory", "stderr_lines": ["cat: |: No such file or directory", "cat: grep: No such file or directory", "cat: paintlo: No such file or directory"], "stdout": "root:x:0:0:root:/root:/bin/bash\nbin:x:1:1:bin:/bin:/sbin/nologin\ndaemon:x:2:2:daemon:/sbin:/sbin/nologin\nadm:x:3:4:adm:/var/adm:/sbin/nologin\nlp:x:4:7:lp:/var/spool/lpd:/sbin/nologin\nsync:x:5:0:sync:/sbin:/bin/sync\nshutdown:x:6:0:shutdown:/sbin:/sbin/shutdown\nhalt:x:7:0:halt:/sbin:/sbin/halt\nmail:x:8:12:mail:/var/spool/mail:/sbin/nologin\noperator:x:11:0:operator:/root:/sbin/nologin\ngames:x:12:100:games:/usr/games:/sbin/nologin\nftp:x:14:50:FTP User:/var/ftp:/sbin/nologin\nnobody:x:99:99:Nobody:/:/sbin/nologin\ndbus:x:81:81:System message bus:/:/sbin/nologin\npolkitd:x:999:998:User for polkitd:/:/sbin/nologin\navahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin\navahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin\nrpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin\nrpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin\nnfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin\npostfix:x:89:89::/var/spool/postfix:/sbin/nologin\nchrony:x:998:996::/var/lib/chrony:/sbin/nologin\nsshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin\ncentos:x:1000:1000:Cloud User:/home/centos:/bin/bash\nuser:x:1001:1001::/home/user:/bin/bash\nusbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin\ncolord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin\nrtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin\npulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin\ngdm:x:42:42::/var/lib/gdm:/sbin/nologin\ntss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin\nsystemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin\nsystemd-network:x:995:991:systemd Network Management:/:/sbin/nologin\ngeoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin\natest:x:1002:1002::/home/atest:/bin/bash\napache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin\npaintlo:x:1003:1003::/home/paintlo:/bin/bash\nnesaadm:x:1004:1004::/home/nesaadm:/bin/bash", "stdout_lines": ["root:x:0:0:root:/root:/bin/bash", "bin:x:1:1:bin:/bin:/sbin/nologin", "daemon:x:2:2:daemon:/sbin:/sbin/nologin", "adm:x:3:4:adm:/var/adm:/sbin/nologin", "lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin", "sync:x:5:0:sync:/sbin:/bin/sync", "shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown", "halt:x:7:0:halt:/sbin:/sbin/halt", "mail:x:8:12:mail:/var/spool/mail:/sbin/nologin", "operator:x:11:0:operator:/root:/sbin/nologin", "games:x:12:100:games:/usr/games:/sbin/nologin", "ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin", "nobody:x:99:99:Nobody:/:/sbin/nologin", "dbus:x:81:81:System message bus:/:/sbin/nologin", "polkitd:x:999:998:User for polkitd:/:/sbin/nologin", "avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin", "avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin", "rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin", "rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin", "nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin", "postfix:x:89:89::/var/spool/postfix:/sbin/nologin", "chrony:x:998:996::/var/lib/chrony:/sbin/nologin", "sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin", "centos:x:1000:1000:Cloud User:/home/centos:/bin/bash", "user:x:1001:1001::/home/user:/bin/bash", "usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin", "colord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin", "rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin", "pulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin", "gdm:x:42:42::/var/lib/gdm:/sbin/nologin", "tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin", "systemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin", "systemd-network:x:995:991:systemd Network Management:/:/sbin/nologin", "geoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin", "atest:x:1002:1002::/home/atest:/bin/bash", "apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin", "paintlo:x:1003:1003::/home/paintlo:/bin/bash", "nesaadm:x:1004:1004::/home/nesaadm:/bin/bash"]}
+2017-11-01 09:31:26,076 p=1800 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck1.retry
+
+2017-11-01 09:31:26,076 p=1800 u=paintlo |  PLAY RECAP **********************************************************************************************************************
+2017-11-01 09:31:26,076 p=1800 u=paintlo |  paintlo3.mylabserver.com   : ok=1    changed=0    unreachable=0    failed=1   
+2017-11-01 09:40:44,862 p=1875 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 09:40:44,870 p=1875 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 09:40:45,990 p=1875 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 09:40:45,995 p=1875 u=paintlo |  TASK [show user in file command] ***********************************************
+2017-11-01 09:40:46,353 p=1875 u=paintlo |  fatal: [paintlo3.mylabserver.com]: FAILED! => {"changed": true, "cmd": ["cat", "/etc/passwd", "|", "grep", "paintlo"], "delta": "0:00:00.004077", "end": "2017-11-01 09:40:46.334602", "failed": true, "msg": "non-zero return code", "rc": 1, "start": "2017-11-01 09:40:46.330525", "stderr": "cat: |: No such file or directory\ncat: grep: No such file or directory\ncat: paintlo: No such file or directory", "stderr_lines": ["cat: |: No such file or directory", "cat: grep: No such file or directory", "cat: paintlo: No such file or directory"], "stdout": "root:x:0:0:root:/root:/bin/bash\nbin:x:1:1:bin:/bin:/sbin/nologin\ndaemon:x:2:2:daemon:/sbin:/sbin/nologin\nadm:x:3:4:adm:/var/adm:/sbin/nologin\nlp:x:4:7:lp:/var/spool/lpd:/sbin/nologin\nsync:x:5:0:sync:/sbin:/bin/sync\nshutdown:x:6:0:shutdown:/sbin:/sbin/shutdown\nhalt:x:7:0:halt:/sbin:/sbin/halt\nmail:x:8:12:mail:/var/spool/mail:/sbin/nologin\noperator:x:11:0:operator:/root:/sbin/nologin\ngames:x:12:100:games:/usr/games:/sbin/nologin\nftp:x:14:50:FTP User:/var/ftp:/sbin/nologin\nnobody:x:99:99:Nobody:/:/sbin/nologin\ndbus:x:81:81:System message bus:/:/sbin/nologin\npolkitd:x:999:998:User for polkitd:/:/sbin/nologin\navahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin\navahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin\nrpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin\nrpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin\nnfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin\npostfix:x:89:89::/var/spool/postfix:/sbin/nologin\nchrony:x:998:996::/var/lib/chrony:/sbin/nologin\nsshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin\ncentos:x:1000:1000:Cloud User:/home/centos:/bin/bash\nuser:x:1001:1001::/home/user:/bin/bash\nusbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin\ncolord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin\nrtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin\npulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin\ngdm:x:42:42::/var/lib/gdm:/sbin/nologin\ntss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin\nsystemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin\nsystemd-network:x:995:991:systemd Network Management:/:/sbin/nologin\ngeoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin\natest:x:1002:1002::/home/atest:/bin/bash\napache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin\npaintlo:x:1003:1003::/home/paintlo:/bin/bash\nnesaadm:x:1004:1004::/home/nesaadm:/bin/bash", "stdout_lines": ["root:x:0:0:root:/root:/bin/bash", "bin:x:1:1:bin:/bin:/sbin/nologin", "daemon:x:2:2:daemon:/sbin:/sbin/nologin", "adm:x:3:4:adm:/var/adm:/sbin/nologin", "lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin", "sync:x:5:0:sync:/sbin:/bin/sync", "shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown", "halt:x:7:0:halt:/sbin:/sbin/halt", "mail:x:8:12:mail:/var/spool/mail:/sbin/nologin", "operator:x:11:0:operator:/root:/sbin/nologin", "games:x:12:100:games:/usr/games:/sbin/nologin", "ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin", "nobody:x:99:99:Nobody:/:/sbin/nologin", "dbus:x:81:81:System message bus:/:/sbin/nologin", "polkitd:x:999:998:User for polkitd:/:/sbin/nologin", "avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin", "avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin", "rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin", "rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin", "nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin", "postfix:x:89:89::/var/spool/postfix:/sbin/nologin", "chrony:x:998:996::/var/lib/chrony:/sbin/nologin", "sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin", "centos:x:1000:1000:Cloud User:/home/centos:/bin/bash", "user:x:1001:1001::/home/user:/bin/bash", "usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin", "colord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin", "rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin", "pulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin", "gdm:x:42:42::/var/lib/gdm:/sbin/nologin", "tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin", "systemd-bus-proxy:x:996:992:systemd Bus Proxy:/:/sbin/nologin", "systemd-network:x:995:991:systemd Network Management:/:/sbin/nologin", "geoclue:x:994:990:User for geoclue:/var/lib/geoclue:/sbin/nologin", "atest:x:1002:1002::/home/atest:/bin/bash", "apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin", "paintlo:x:1003:1003::/home/paintlo:/bin/bash", "nesaadm:x:1004:1004::/home/nesaadm:/bin/bash"]}
+2017-11-01 09:40:46,354 p=1875 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck1.retry
+
+2017-11-01 09:40:46,355 p=1875 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 09:40:46,355 p=1875 u=paintlo |  paintlo3.mylabserver.com   : ok=1    changed=0    unreachable=0    failed=1   
+2017-11-01 09:45:28,588 p=1920 u=paintlo |  ERROR! Syntax Error while loading YAML.
+
+
+The error appears to have been in '/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck2b.yml': line 11, column 14, but may
+be elsewhere in the file depending on the exact syntax problem.
+
+The offending line appears to be:
+
+  -local_action: command echo item
+   with_items: ct.stdout_lines
+             ^ here
+
+exception type: <class 'yaml.scanner.ScannerError'>
+exception: mapping values are not allowed in this context
+  in "<unicode string>", line 11, column 14
+2017-11-01 09:46:35,495 p=1930 u=paintlo |  ERROR! Syntax Error while loading YAML.
+
+
+The error appears to have been in '/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck2b.yml': line 11, column 4, but may
+be elsewhere in the file depending on the exact syntax problem.
+
+The offending line appears to be:
+
+  - local_action: command echo item
+   with_items: ct.stdout_lines
+   ^ here
+
+exception type: <class 'yaml.parser.ParserError'>
+exception: while parsing a block mapping
+  in "<unicode string>", line 2, column 3
+did not find expected key
+  in "<unicode string>", line 11, column 4
+2017-11-01 09:47:11,724 p=1940 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 09:47:11,732 p=1940 u=paintlo |  TASK [command] *****************************************************************
+2017-11-01 09:47:12,483 p=1940 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:47:12,490 p=1940 u=paintlo |  TASK [command] *****************************************************************
+2017-11-01 09:47:12,637 p=1940 u=paintlo |  changed: [paintlo3.mylabserver.com -> localhost] => (item=ps.stdout_lines)
+2017-11-01 09:47:12,639 p=1940 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 09:47:12,639 p=1940 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=2    unreachable=0    failed=0   
+2017-11-01 09:48:07,369 p=1985 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 09:48:07,376 p=1985 u=paintlo |  TASK [command] *****************************************************************
+2017-11-01 09:48:07,740 p=1985 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:48:07,746 p=1985 u=paintlo |  TASK [command] *****************************************************************
+2017-11-01 09:48:07,882 p=1985 u=paintlo |  changed: [paintlo3.mylabserver.com -> localhost] => (item=ps.stdout_lines)
+2017-11-01 09:48:07,883 p=1985 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 09:48:07,883 p=1985 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=2    unreachable=0    failed=0   
+2017-11-01 09:54:50,371 p=2043 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 09:54:50,379 p=2043 u=paintlo |  TASK [command] *****************************************************************
+2017-11-01 09:54:51,198 p=2043 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 09:54:51,199 p=2043 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 09:54:51,200 p=2043 u=paintlo |  paintlo3.mylabserver.com   : ok=1    changed=1    unreachable=0    failed=0   
+2017-11-01 10:00:40,232 p=2106 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 10:00:40,239 p=2106 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 10:00:41,476 p=2106 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:00:41,481 p=2106 u=paintlo |  TASK [show user in file shell] *************************************************
+2017-11-01 10:00:41,828 p=2106 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 10:00:41,829 p=2106 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 10:00:41,830 p=2106 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 10:02:36,074 p=2144 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 10:02:36,082 p=2144 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 10:02:37,159 p=2144 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:02:37,164 p=2144 u=paintlo |  TASK [show user in file shell] *************************************************
+2017-11-01 10:02:37,517 p=2144 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 10:02:37,518 p=2144 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 10:02:37,518 p=2144 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=1    unreachable=0    failed=0   
+2017-11-01 10:05:37,404 p=2180 u=paintlo |  ERROR! Syntax Error while loading YAML.
+
+
+The error appears to have been in '/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck1b.yml': line 9, column 5, but may
+be elsewhere in the file depending on the exact syntax problem.
+
+The offending line appears to be:
+
+
+    - debug:
+    ^ here
+
+exception type: <class 'yaml.parser.ParserError'>
+exception: while parsing a block mapping
+  in "<unicode string>", line 5, column 5
+did not find expected key
+  in "<unicode string>", line 9, column 5
+2017-11-01 10:08:23,758 p=2223 u=paintlo |  ERROR! Syntax Error while loading YAML.
+
+
+The error appears to have been in '/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck1b.yml': line 9, column 5, but may
+be elsewhere in the file depending on the exact syntax problem.
+
+The offending line appears to be:
+
+
+    - debug:
+    ^ here
+
+exception type: <class 'yaml.parser.ParserError'>
+exception: while parsing a block mapping
+  in "<unicode string>", line 5, column 5
+did not find expected key
+  in "<unicode string>", line 9, column 5
+2017-11-01 10:09:02,294 p=2232 u=paintlo |   [WARNING]: Ignoring invalid attribute: var
+
+2017-11-01 10:09:02,427 p=2232 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 10:09:02,435 p=2232 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 10:09:03,688 p=2232 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:09:03,693 p=2232 u=paintlo |  TASK [show user in file shell] *************************************************
+2017-11-01 10:09:04,051 p=2232 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 10:09:04,056 p=2232 u=paintlo |  TASK [debug] *******************************************************************
+2017-11-01 10:09:04,084 p=2232 u=paintlo |  ok: [paintlo3.mylabserver.com] => {
+    "msg": "Hello world!"
+}
+2017-11-01 10:09:04,085 p=2232 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 10:09:04,086 p=2232 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=1    unreachable=0    failed=0   
+2017-11-01 10:09:46,263 p=2265 u=paintlo |   [WARNING]: Ignoring invalid attribute: var
+
+2017-11-01 10:09:46,394 p=2265 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 10:09:46,402 p=2265 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 10:09:47,169 p=2265 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:09:47,174 p=2265 u=paintlo |  TASK [show user in file shell] *************************************************
+2017-11-01 10:09:47,540 p=2265 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 10:09:47,546 p=2265 u=paintlo |  TASK [debug] *******************************************************************
+2017-11-01 10:09:47,573 p=2265 u=paintlo |  ok: [paintlo3.mylabserver.com] => {
+    "msg": "Hello world!"
+}
+2017-11-01 10:09:47,575 p=2265 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 10:09:47,575 p=2265 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=1    unreachable=0    failed=0   
+2017-11-01 10:11:24,279 p=2299 u=paintlo |   [WARNING]: Ignoring invalid attribute: var
+
+2017-11-01 10:11:24,407 p=2299 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 10:11:24,415 p=2299 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 10:11:25,639 p=2299 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:11:25,644 p=2299 u=paintlo |  TASK [show user in file shell] *************************************************
+2017-11-01 10:11:25,991 p=2299 u=paintlo |  changed: [paintlo3.mylabserver.com]
+2017-11-01 10:11:25,996 p=2299 u=paintlo |  TASK [debug] *******************************************************************
+2017-11-01 10:11:26,023 p=2299 u=paintlo |  ok: [paintlo3.mylabserver.com] => {
+    "msg": "Hello world!"
+}
+2017-11-01 10:11:26,024 p=2299 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 10:11:26,025 p=2299 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=1    unreachable=0    failed=0   
+2017-11-01 10:12:15,271 p=2333 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 10:12:15,363 p=2333 u=paintlo |   [WARNING]: Ignoring invalid attribute: var
+
+2017-11-01 10:12:15,493 p=2333 u=paintlo |  PLAY [s3] **********************************************************************
+2017-11-01 10:12:15,501 p=2333 u=paintlo |  TASK [Gathering Facts] *********************************************************
+2017-11-01 10:12:16,180 p=2333 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:12:16,185 p=2333 u=paintlo |  TASK [show user in file shell] *************************************************
+2017-11-01 10:12:16,538 p=2333 u=paintlo |  changed: [paintlo3.mylabserver.com] => {"changed": true, "cmd": "cat /etc/passwd | grep paint", "delta": "0:00:00.004377", "end": "2017-11-01 10:12:16.521161", "failed": false, "rc": 0, "start": "2017-11-01 10:12:16.516784", "stderr": "", "stderr_lines": [], "stdout": "paintlo:x:1003:1003::/home/paintlo:/bin/bash", "stdout_lines": ["paintlo:x:1003:1003::/home/paintlo:/bin/bash"]}
+2017-11-01 10:12:16,543 p=2333 u=paintlo |  TASK [debug] *******************************************************************
+2017-11-01 10:12:16,571 p=2333 u=paintlo |  ok: [paintlo3.mylabserver.com] => {
+    "msg": "Hello world!"
+}
+2017-11-01 10:12:16,572 p=2333 u=paintlo |  PLAY RECAP *********************************************************************
+2017-11-01 10:12:16,573 p=2333 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=1    unreachable=0    failed=0   
+2017-11-01 10:15:29,060 p=2369 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 10:15:29,287 p=2369 u=paintlo |  PLAY [s3] *******************************************************************************************************************************
+2017-11-01 10:15:29,295 p=2369 u=paintlo |  TASK [Gathering Facts] ******************************************************************************************************************
+2017-11-01 10:15:30,605 p=2369 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:15:30,610 p=2369 u=paintlo |  TASK [ping] *****************************************************************************************************************************
+2017-11-01 10:15:30,961 p=2369 u=paintlo |  ok: [paintlo3.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:15:30,966 p=2369 u=paintlo |  TASK [debug] ****************************************************************************************************************************
+2017-11-01 10:15:30,979 p=2369 u=paintlo |  fatal: [paintlo3.mylabserver.com]: FAILED! => {"msg": "'dict object' has no attribute 'db_server'"}
+2017-11-01 10:15:30,980 p=2369 u=paintlo |  	to retry, use: --limit @/home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/usercheck4.retry
+
+2017-11-01 10:15:30,980 p=2369 u=paintlo |  PLAY RECAP ******************************************************************************************************************************
+2017-11-01 10:15:30,980 p=2369 u=paintlo |  paintlo3.mylabserver.com   : ok=2    changed=0    unreachable=0    failed=1   
+2017-11-01 10:16:24,384 p=2405 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 10:16:24,606 p=2405 u=paintlo |  PLAY [s3] *******************************************************************************************************************************
+2017-11-01 10:16:24,614 p=2405 u=paintlo |  TASK [Gathering Facts] ******************************************************************************************************************
+2017-11-01 10:16:25,308 p=2405 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:16:25,313 p=2405 u=paintlo |  TASK [ping] *****************************************************************************************************************************
+2017-11-01 10:16:25,648 p=2405 u=paintlo |  ok: [paintlo3.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:16:25,653 p=2405 u=paintlo |  TASK [debug] ****************************************************************************************************************************
+2017-11-01 10:16:25,691 p=2405 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:16:25,692 p=2405 u=paintlo |  PLAY RECAP ******************************************************************************************************************************
+2017-11-01 10:16:25,693 p=2405 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:17:25,016 p=2437 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 10:17:25,238 p=2437 u=paintlo |  PLAY [s1-3] *****************************************************************************************************************************
+2017-11-01 10:17:25,245 p=2437 u=paintlo |  TASK [Gathering Facts] ******************************************************************************************************************
+2017-11-01 10:17:26,523 p=2437 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:17:26,572 p=2437 u=paintlo |  ok: [paintlo1.mylabserver.com]
+2017-11-01 10:17:26,694 p=2437 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 10:17:26,699 p=2437 u=paintlo |  TASK [ping] *****************************************************************************************************************************
+2017-11-01 10:17:27,207 p=2437 u=paintlo |  ok: [paintlo2.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:17:27,210 p=2437 u=paintlo |  ok: [paintlo3.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:17:27,221 p=2437 u=paintlo |  ok: [paintlo1.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:17:27,226 p=2437 u=paintlo |  TASK [debug] ****************************************************************************************************************************
+2017-11-01 10:17:27,368 p=2437 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:17:27,412 p=2437 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:17:27,432 p=2437 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:17:27,432 p=2437 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:17:27,444 p=2437 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:17:27,476 p=2437 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:17:27,477 p=2437 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:17:27,479 p=2437 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:17:27,480 p=2437 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:17:27,482 p=2437 u=paintlo |  PLAY RECAP ******************************************************************************************************************************
+2017-11-01 10:17:27,483 p=2437 u=paintlo |  paintlo1.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:17:27,483 p=2437 u=paintlo |  paintlo2.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:17:27,483 p=2437 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:19:20,772 p=2521 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 10:19:20,994 p=2521 u=paintlo |  PLAY [s1-3] *****************************************************************************************************************************
+2017-11-01 10:19:21,001 p=2521 u=paintlo |  TASK [Gathering Facts] ******************************************************************************************************************
+2017-11-01 10:19:22,218 p=2521 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 10:19:22,241 p=2521 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:19:22,268 p=2521 u=paintlo |  ok: [paintlo1.mylabserver.com]
+2017-11-01 10:19:22,273 p=2521 u=paintlo |  TASK [ping] *****************************************************************************************************************************
+2017-11-01 10:19:22,775 p=2521 u=paintlo |  ok: [paintlo2.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:19:22,779 p=2521 u=paintlo |  ok: [paintlo1.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:19:22,783 p=2521 u=paintlo |  ok: [paintlo3.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:19:22,788 p=2521 u=paintlo |  TASK [debug] ****************************************************************************************************************************
+2017-11-01 10:19:22,931 p=2521 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:19:22,974 p=2521 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:19:22,995 p=2521 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:19:22,995 p=2521 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:19:23,007 p=2521 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:19:23,030 p=2521 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:19:23,030 p=2521 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:19:23,042 p=2521 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:19:23,043 p=2521 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "hostvars[item].result": {
+        "changed": false, 
+        "failed": false, 
+        "ping": "pong"
+    }, 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:19:23,045 p=2521 u=paintlo |  PLAY RECAP ******************************************************************************************************************************
+2017-11-01 10:19:23,045 p=2521 u=paintlo |  paintlo1.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:19:23,045 p=2521 u=paintlo |  paintlo2.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:19:23,046 p=2521 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:20:28,420 p=2599 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 10:20:28,644 p=2599 u=paintlo |  PLAY [s1-3] *****************************************************************************************************************************
+2017-11-01 10:20:28,652 p=2599 u=paintlo |  TASK [Gathering Facts] ******************************************************************************************************************
+2017-11-01 10:20:29,840 p=2599 u=paintlo |  ok: [paintlo1.mylabserver.com]
+2017-11-01 10:20:29,865 p=2599 u=paintlo |  ok: [paintlo2.mylabserver.com]
+2017-11-01 10:20:29,969 p=2599 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 10:20:29,974 p=2599 u=paintlo |  TASK [ping] *****************************************************************************************************************************
+2017-11-01 10:20:30,489 p=2599 u=paintlo |  ok: [paintlo2.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:20:30,493 p=2599 u=paintlo |  ok: [paintlo3.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:20:30,495 p=2599 u=paintlo |  ok: [paintlo1.mylabserver.com] => {"changed": false, "failed": false, "ping": "pong"}
+2017-11-01 10:20:30,500 p=2599 u=paintlo |  TASK [debug] ****************************************************************************************************************************
+2017-11-01 10:20:30,644 p=2599 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:20:30,655 p=2599 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:20:30,688 p=2599 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo1.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo1.mylabserver.com"
+}
+2017-11-01 10:20:30,693 p=2599 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:20:30,694 p=2599 u=paintlo |  ok: [paintlo1.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:20:30,707 p=2599 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:20:30,707 p=2599 u=paintlo |  ok: [paintlo2.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:20:30,717 p=2599 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo2.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo2.mylabserver.com"
+}
+2017-11-01 10:20:30,718 p=2599 u=paintlo |  ok: [paintlo3.mylabserver.com] => (item=paintlo3.mylabserver.com) => {
+    "dudevars[item].result": "VARIABLE IS NOT DEFINED!", 
+    "item": "paintlo3.mylabserver.com"
+}
+2017-11-01 10:20:30,719 p=2599 u=paintlo |  PLAY RECAP ******************************************************************************************************************************
+2017-11-01 10:20:30,719 p=2599 u=paintlo |  paintlo1.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:20:30,720 p=2599 u=paintlo |  paintlo2.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 10:20:30,720 p=2599 u=paintlo |  paintlo3.mylabserver.com   : ok=3    changed=0    unreachable=0    failed=0   
+2017-11-01 11:02:49,978 p=2863 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 11:02:50,134 p=2863 u=paintlo |  PLAY [s3] **********************************************************************************
+2017-11-01 11:02:50,211 p=2863 u=paintlo |  TASK [Gathering Facts] *********************************************************************
+2017-11-01 11:02:51,359 p=2863 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 11:02:51,362 p=2863 u=paintlo |  ERROR! the field 'hosts' is required but was not set
+2017-11-01 11:03:47,669 p=2889 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 11:03:47,816 p=2889 u=paintlo |  PLAY [s3] **********************************************************************************
+2017-11-01 11:03:47,893 p=2889 u=paintlo |  TASK [Gathering Facts] *********************************************************************
+2017-11-01 11:03:48,555 p=2889 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 11:03:48,557 p=2889 u=paintlo |  ERROR! the field 'hosts' is required but was not set
+2017-11-01 11:04:16,883 p=2913 u=paintlo |  Using /home/paintlo/ansible-rhc-exp/ansible-rhc-exp-server-setup/ansible.cfg as config file
+2017-11-01 11:04:17,032 p=2913 u=paintlo |  PLAY [s3] **********************************************************************************
+2017-11-01 11:04:17,111 p=2913 u=paintlo |  TASK [Gathering Facts] *********************************************************************
+2017-11-01 11:04:17,917 p=2913 u=paintlo |  ok: [paintlo3.mylabserver.com]
+2017-11-01 11:04:17,919 p=2913 u=paintlo |  ERROR! the field 'hosts' is required but was not set

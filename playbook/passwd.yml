@@ -1,0 +1,9 @@
+---
+- hosts: s1-3
+  tasks:
+  - shell: cat /etc/passwd | grep paintlo
+    register: motd_contents
+  - debug: msg="stdout={{motd_contents}}"
+  - debug: msg="MOTD is EMPTY"
+    when: motd_contents.stdout == ""
+

@@ -1,0 +1,7 @@
+ansible-playbook -v -i myhosts useradd.yml
+
+ansible-playbook -v -i myhosts userdelete.yml
+
+ansible-playbook -v -i myhosts usercheck.yml
+
+
