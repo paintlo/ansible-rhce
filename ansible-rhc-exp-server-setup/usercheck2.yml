@@ -4,9 +4,14 @@
   #become: true
   tasks:
   - name: show user in file command 
-    command: cat /etc/passwd | grep paintlo
-    #shell: cat /etc/passwd | grep nesaadm
-  - name: show user in file shell
-    #command: cat /var/log/messages
+    #command: cat /etc/passwd | grep paintlo
     shell: cat /etc/passwd  | grep paintlo
+    register: cat_contents
+  - debug:
+      msg: "stdout={{cat_contents}}"
+
+    #shell: cat /etc/passwd | grep nesaadm
+#  - name: show user in file shell
+    #command: cat /var/log/messages
+#    shell: cat /etc/passwd  | grep paintlo
     #        #shell: cat /etc/passwd | grep nesaadm  

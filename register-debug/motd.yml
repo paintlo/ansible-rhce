@@ -1,0 +1,11 @@
+--- 
+- hosts: s1-3
+  tasks:
+  - shell: cat /etc/motd
+    register: motd_contents
+  - debug:
+      msg: "stdout={{motd_contents}}"
+  - debug:
+      msg: "MOTD is empty"
+    when: motd_contents.stdout == ""
+
