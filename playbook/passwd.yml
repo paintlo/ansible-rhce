@@ -1,7 +1,7 @@
 ---
 - hosts: s1-3
   tasks:
-  - shell: cat /etc/passwd | grep paintlo
+  - shell: cat /etc/passwd | grep nesaadm 
     register: motd_contents
   - debug: msg="stdout={{motd_contents}}"
   - debug: msg="MOTD is EMPTY"

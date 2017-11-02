@@ -1,5 +1,5 @@
 ---
-- hosts: s6
+- hosts: s1-3 
   become: true
   tasks:
   - name: remove user nesaadm

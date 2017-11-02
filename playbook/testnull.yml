@@ -1,0 +1,9 @@
+--- 
+- hosts: s1-3
+  #connection: local
+  gather_facts: false
+  vars:
+    testvar: !!null
+  tasks:
+    - name: debug
+      debug: msg="{{testvar|default(22)}}"

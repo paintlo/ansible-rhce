@@ -4,6 +4,7 @@
   tasks:
   - name: create user nesaadm
     user: 
+      state: present
       name: nesaadm
       #password: "{{ 'password' | password_hash('sha512') }}"
       shell: /bin/bash
