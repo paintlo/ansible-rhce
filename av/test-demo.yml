@@ -1,0 +1,4 @@
+---
+- hosts: s2
+  roles:
+    - test.demo

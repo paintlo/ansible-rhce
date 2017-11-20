@@ -1,0 +1,41 @@
+##########################################################################
+## use filter when looking for values
+## because unlike grep filter will retrieve the values as well
+#see the diff between the following 2 commands
+
+ansible -i ~/myhosts localhost -m setup | grep ipv4
+        "ansible_all_ipv4_addresses": [
+        "ansible_default_ipv4": {
+                "tx_checksum_ipv4": "on", 
+            "ipv4": {
+                "tx_checksum_ipv4": "off [fixed]", 
+            "ipv4": {
+[paintlo@paintlo4 ansible-rhce]$ ansible -i ~/myhosts localhost -m setup -a 'filter=*ipv4*'
+localhost | SUCCESS => {
+    "ansible_facts": {
+        "ansible_all_ipv4_addresses": [
+            "172.31.99.224"
+        ], 
+        "ansible_default_ipv4": {
+            "address": "172.31.99.224", 
+            "alias": "eth0", 
+            "broadcast": "172.31.111.255", 
+            "gateway": "172.31.96.1", 
+            "interface": "eth0", 
+            "macaddress": "0a:6a:14:61:f5:c2", 
+            "mtu": 9001, 
+            "netmask": "255.255.240.0", 
+            "network": "172.31.96.0", 
+            "type": "ether"
+        }
+    }, 
+    "changed": false, 
+    "failed": false
+}
+
+
+
+##########################################################################
+
+
+

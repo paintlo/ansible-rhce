@@ -1,0 +1,6 @@
+---
+- name: copy
+  #become: true
+  #become_user: nesaadm
+  #become_mehtod: sudo
+  copy: content="{{special_password}}" dest=/home/nesaadm/encrypted_output.txt

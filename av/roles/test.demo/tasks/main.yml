@@ -1,0 +1,3 @@
+---
+
+- copy: content="{{special_password}}" dest=~/encrypted_output.txt

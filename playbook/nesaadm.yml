@@ -1,0 +1,25 @@
+---
+- hosts: s2
+  tasks:
+  - name: Make sure we have a 'wheel' group
+    group:
+      name: wheel
+      state: present
+
+  - name: Allow 'wheel' group to have passwordless sudo
+    become: yes
+    lineinfile:
+      dest: /etc/sudoers
+      state: present
+      regexp: '^%wheel'
+      line: '%wheel ALL=(ALL) NOPASSWD: ALL'
+      validate: 'visudo -cf %s'
+
+  - name: Add sudoers users to wheel group
+    become: yes
+    user: 
+      name=nesaadm 
+      groups=wheel 
+      append=yes 
+      state=present 
+      createhome=yes

@@ -1,0 +1,4 @@
+---
+- hosts: s3
+  roles:
+    - test.demo
